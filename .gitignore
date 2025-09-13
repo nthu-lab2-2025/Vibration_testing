@@ -1,0 +1,11 @@
+# 忽略Data裡的所有檔案
+Data/*
+# 忽略newData裡的所有檔案
+newData/*
+# 忽略所有csv檔案
+*.csv
+# 忽略圖片檔案
+*.png
+*.jpg
+# 忽略文字檔
+*.txt
